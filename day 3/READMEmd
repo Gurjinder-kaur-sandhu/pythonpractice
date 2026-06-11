@@ -1,0 +1,46 @@
+# Python Array Practice
+
+This repository contains beginner-friendly Python programs for practicing array/list operations and problem-solving.
+
+## Topics Covered
+
+* Find duplicate elements
+* Calculate frequency of each element
+* Move all zeroes to the end
+* Find missing number in a sequence
+* Find intersection of two arrays
+* Find union of two arrays
+* Left rotation of an array
+* Right rotation of an array
+* Find pairs with a given sum
+* Separate even and odd numbers
+* Find second smallest element
+* Check if an array is sorted
+* Find largest distance between elements
+* Find leaders in an array
+
+## Purpose
+
+I created these programs while learning Python and Data Structures fundamentals. The goal is to understand array manipulation, loops, conditions, dictionaries, and basic problem-solving techniques.
+
+## Technologies Used
+
+* Python 3
+
+## How to Run
+
+```bash
+python filename.py
+```
+
+## Learning Outcome
+
+These exercises helped me strengthen my understanding of:
+
+* Lists and Arrays
+* Loops
+* Conditional Statements
+* Dictionaries
+* Problem-Solving Logic
+
+Feel free to explore, learn, and improve the solutions.
